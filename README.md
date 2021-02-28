@@ -10,13 +10,13 @@ FlaskBlog is a simple yet more than a basic blog website built using FLask.
 
 **Install virtual enviornment**
 ```bash
-python -m pip install --user virtualenv
-python -m virtualenv --help
+python -m pip install --user enviroment
+python -m enviroment --help
 ```
 
 **Activate the  virtual enviornment**
 ```bash
-cd blog
+cd flaskblog\enviornment
 Scripts\activate
 ```
 
