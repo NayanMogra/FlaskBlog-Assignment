@@ -172,7 +172,9 @@ def delete_post(post_id):
     post = Post.query.get_or_404(post_id)
     if post.author != current_user:
         abort(403)
+    upvote = UpVote.query.get_or_404(post_id)
     db.session.delete(post)
+    db.session.delete(upvote)
     db.session.commit()
     flash('Your post has been deleted!', 'success')
     return redirect(url_for('home'))
