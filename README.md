@@ -69,6 +69,16 @@ pip install flask-serialize
 **Home page**
   ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590218410.png)
  ****
-**Login Page**
+
+**Register page**
+  ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590327249.png)
+ ****
+
+**Successful Register Page**
   ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590297394.png)
  ****
+
+**Login Page**
+  ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590392437.png)
+ ****
+ 
