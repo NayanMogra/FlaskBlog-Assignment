@@ -67,7 +67,5 @@ pip install flask-serialize
 
 ## Screenshot of assignment 
 **Home page**
-```bash
   ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590218410.png)
- ```
  ****
