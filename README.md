@@ -67,6 +67,7 @@ pip install flask-serialize
 
 ## Screenshot of assignment 
 **Home page**
+ #### Since you are not logined you will only see Login and register buttons
   ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590218410.png)
  ****
 
@@ -81,4 +82,33 @@ pip install flask-serialize
 **Login Page**
   ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590392437.png)
  ****
+ 
+ **After Successful Login Page**
+  ####Now you can see new post , account and logout buttons
+  ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590409223.png)
+ ****
+ 
+ **New Post**
+  ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590466105.png)
+ ****
+ 
+ **Successful New Post Creation**
+  ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590487776.png)
+ ****
+ 
+**User Account Page**
+  ####User can change his image here and chanhe their username and email id
+  ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590507876.png)
+ ****
+
+**User Liked Post**
+  ####User can like post if and only if he is logged in
+  ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590532424.png)
+ ****
+ 
+ **Update and Delete Post**
+  ####User can update and delete only his uploaded post by clicking on the post title he can come on this page
+  ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590600820.png)
+ ****
+ 
  
