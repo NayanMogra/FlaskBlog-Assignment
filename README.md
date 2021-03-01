@@ -84,7 +84,7 @@ pip install flask-serialize
  ****
  
  **After Successful Login Page**
-  ####Now you can see new post , account and logout buttons
+  #### Now you can see new post , account and logout buttons
   ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590409223.png)
  ****
  
@@ -97,17 +97,17 @@ pip install flask-serialize
  ****
  
 **User Account Page**
-  ####User can change his image here and chanhe their username and email id
+  #### User can change his image here and chanhe their username and email id
   ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590507876.png)
  ****
 
 **User Liked Post**
-  ####User can like post if and only if he is logged in
+  #### User can like post if and only if he is logged in
   ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590532424.png)
  ****
  
  **Update and Delete Post**
-  ####User can update and delete only his uploaded post by clicking on the post title he can come on this page
+  #### User can update and delete only his uploaded post by clicking on the post title he can come on this page
   ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590600820.png)
  ****
  
