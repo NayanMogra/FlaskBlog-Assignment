@@ -46,6 +46,16 @@ pip install flask-serialize
  exit()
  ```
  ****
+## Set Username and password 
+**Set Username and password for sending link to change password**
+```bash
+ 1. Go in search and write enviroment varible and click on edit the system envrioment varible
+ 2. Now got to Enviroment varible option
+ 3. now set two system varible:-
+   a. EMAIL_USER as varible name and <a valid gmail id> as varible value
+   b. EMAIL_PASSWORD as varible name and <a valid gmail password> as varible value
+ ```
+ ****
  
 ## Run the code at your local envn
 **Run it as**
@@ -53,3 +63,11 @@ pip install flask-serialize
  python run.py
  ```
 >Open your browser and the site can be found running at http://127.0.0.1:5000/ 
+
+
+## Screenshot of assignment 
+**Home page**
+```bash
+  
+ ```
+ ****
