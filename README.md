@@ -67,7 +67,7 @@ pip install flask-serialize
 
 ## Screenshot of assignment 
 **Home page**
- #### Since you are not logined you will only see Login and register buttons
+ #### Since you are not logged in you will only see Login and register buttons
   ![](https://github.com/NayanMogra/FlaskBlog-Assignment/blob/main/screenshot/1614590218410.png)
  ****
 
