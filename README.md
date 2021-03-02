@@ -5,7 +5,7 @@ FlaskBlog is a simple yet more than a basic blog website built using FLask.
 ## Local installation guide:
 **Clone the repository**
 ```bash
- git clone https://github.com/shubham7743/FlaskBlog.git
+ git clone https://github.com/NayanMogra/FlaskBlog-Assignment.git
 ```
 
 **Install virtual enviornment**
