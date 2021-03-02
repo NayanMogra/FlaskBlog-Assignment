@@ -1,5 +1,6 @@
 # FlaskBlog
 FlaskBlog is a simple yet more than a basic blog website built using FLask.
+Follow the Steps to use flask blog
 
 ****
 ## Local installation guide:
@@ -22,8 +23,12 @@ Scripts\activate
 
 ****
 ## Installing dependencies
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dependencies in blog directory.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dependencies in blog directory
 ```bash
+### To install all dependencies at once use 
+pip freeze -r requirment
+
+### To install all dependencies independently
 python -m pip install --upgrade pip	// to update pip
 pip install flask
 pip install Flask-wtf
