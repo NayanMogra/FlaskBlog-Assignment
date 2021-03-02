@@ -27,7 +27,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install depende
 
 ### To install all dependencies at once use 
 ```bash
-pip freeze -r requirment
+pip freeze -r requirement
 ```
 ### To install all dependencies independently
 ```bash
