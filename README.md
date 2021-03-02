@@ -24,11 +24,13 @@ Scripts\activate
 ****
 ## Installing dependencies
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dependencies in blog directory
-```bash
-### To install all dependencies at once use 
-pip freeze -r requirment
 
+### To install all dependencies at once use 
+```bash
+pip freeze -r requirment
+```
 ### To install all dependencies independently
+```bash
 python -m pip install --upgrade pip	// to update pip
 pip install flask
 pip install Flask-wtf
